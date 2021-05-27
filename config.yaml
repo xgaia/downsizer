@@ -1,0 +1,5 @@
+tmp: "tmp"
+input: "input"
+output: "output"
+normalisation: 500000
+threads: 4
